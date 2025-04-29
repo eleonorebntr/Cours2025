@@ -1,0 +1,26 @@
+/* style.css */
+body{
+  background: rgb(245,245,245);
+  color: green;
+  font-size: 25px;
+  font-family: Friedolin;
+}
+h1{
+  font-family: Friedolin;
+  color: red;
+  font-weight: lighter;
+  font-size: 80px;
+}
+h2 {
+  font-family: Friedolin;
+  color: pink;
+  font-weight: lighter;
+  font-size: 8px;
+}
+a {
+  color: yellow;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
